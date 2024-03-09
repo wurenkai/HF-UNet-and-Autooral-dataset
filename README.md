@@ -28,4 +28,14 @@
 
 
 
+https://github.com/wurenkai/HF-UNet-and-Autooral-dataset/assets/124028634/de265270-450c-4395-bb97-0cf9d048c601
+
+
+
+
+https://github.com/wurenkai/HF-UNet-and-Autooral-dataset/assets/124028634/94c56a9f-0130-4a96-8cfa-a2e5048e504b
+
+
+
+
 Continuously updated...
