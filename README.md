@@ -24,7 +24,7 @@
 - pytorch 1.12.0
 
 **1. The proposed datasets (UWF-RHS).**
-- Due to the valuable nature of the collected and annotated data, we would like to provide access links upon receipt of the papers. However, for the sake of review, we will provide some examples. Thank you very much for your understanding.
+- Given the value of collecting and annotating data, we would prefer to provide access links after the paper has been accepted. However, for ease of review, we will provide some examples. Your understanding is greatly appreciated.
 
 ## Examples of proposed dataset segmentation tasks
 
