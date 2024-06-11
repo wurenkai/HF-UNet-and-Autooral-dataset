@@ -12,11 +12,6 @@
   </p>
 </p>
 
-## News🚀
-(2024.03.12) ***Manuscript submitted for review.*** 📃
-
-(2024.03.09) ***Upload relevant running code and sample data set videos.*** 
-
 ***Note: Our paper is in the review stage. In the future, we will fully upload code and data set links. The project is continuously updated...***
 
 **0. Main Environments.**
