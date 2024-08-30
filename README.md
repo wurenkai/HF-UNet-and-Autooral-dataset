@@ -12,13 +12,6 @@
   </p>
 </p>
 
-**0. Main Environments.**
-- python 3.8
-- pytorch 1.12.0
-
-**1. The proposed datasets (UWF-RHS).**
-- Given the value of collecting and annotating data, we would prefer to provide access links after the paper has been accepted. However, for ease of review, we will provide some examples. Your understanding is greatly appreciated.
-
 ## Examples of proposed dataset segmentation tasks
 
 https://github.com/wurenkai/HF-UNet-and-Autooral-dataset/assets/124028634/de265270-450c-4395-bb97-0cf9d048c601
@@ -28,7 +21,30 @@ https://github.com/wurenkai/HF-UNet-and-Autooral-dataset/assets/124028634/de2652
 
 https://github.com/wurenkai/HF-UNet-and-Autooral-dataset/assets/124028634/94c56a9f-0130-4a96-8cfa-a2e5048e504b
 
+**0. Main Environments.**
+- python 3.8
+- pytorch 1.12.0
 
+**1. The proposed datasets (Autooral dataset).** </br>
+(1) To obtain the Autooral dataset, you need to provide **your name, organization, a brief description of your upcoming project, and an assurance that you will not share the dataset privately**. Finally, send your request to “wurk@shu.edu.cn” with the subject “**Autooral dataset request**”. We will usually review your request and provide you with a link within 3 days. </br>
 
+(2) After getting the Autooral dataset, execute 'Prepare_Autooral.py' for preprocessing to generate the npy file. We also provide annotations for categorization to provide more richness to the study. </br>
 
-Continuously updated...
+**2. Train the HF-UNet.** </br>
+Modify the dataset address in the config_setting.py file to the address where the npy is stored after preprocessing. Then, perform the following operation:
+```
+python train.py
+```
+- After trianing, you could obtain the outputs in './results/'
+
+**3. Test the HF-UNet.** </br>
+First, in the test.py file, you should change the address of the checkpoint in 'resume_model' and fill in the location of the test data in 'data_path'.
+```
+python test.py
+```
+- After testing, you could obtain the outputs in './results/'
+
+## References
+- [MHorUNet](https://github.com/wurenkai/MHorUNet)
+- [HorNet](https://github.com/raoyongming/HorNet)
+---
