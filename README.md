@@ -26,7 +26,7 @@ https://github.com/wurenkai/HF-UNet-and-Autooral-dataset/assets/124028634/94c56a
 - pytorch 1.12.0
 
 **1. The proposed datasets (Autooral dataset).** </br>
-(1) To obtain the Autooral dataset, you need to provide **your name, organization, a brief description of your upcoming project, and an assurance that you will not share the dataset privately**. Specifically, complete the information in the following format and send it to 'wurk@shu.edu.cn' with the subject name '**Autooral dataset request**'. We will usually review your request and provide you with a link within 3 days. If you do not register your information as required, your application may fail. Please understand! </br>
+(1) To obtain the Autooral dataset, you need to provide **your name, affiliation, reason for applying (one sentence description of your work), and an assurance that you will not share the dataset privately. Specifically, complete the information in the following format** and send it to 'wurk@shu.edu.cn' with the subject name '**Autooral dataset request**'. We will usually review your request and provide you with a link within 3 days. If you do not register your information as required, your application may fail. Please understand! </br>
 ```
 Name:
 Affiliation:
