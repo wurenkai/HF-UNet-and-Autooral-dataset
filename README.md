@@ -50,6 +50,21 @@ python test.py
 ```
 - After testing, you could obtain the outputs in './results/'
 
+## Citation
+If you find this repository helpful, please consider citing:
+```
+@article{jiang2024high,
+  title={A high-order focus interaction model and oral ulcer dataset for oral ulcer segmentation},
+  author={Jiang, Chenghao and Wu, Renkai and Liu, Yinghao and Wang, Yue and Chang, Qing and Liang, Pengchen and Fan, Yuan},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={20085},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
+
 ## References
 - [MHorUNet](https://github.com/wurenkai/MHorUNet)
 - [HorNet](https://github.com/raoyongming/HorNet)
