@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">HF-UNet for Autooral Segmentation: High-order Focus Interaction Model and Multi-tasking Oral Ulcer Dataset</h1>
+  <h1 align="center">A high-order focus interaction model and oral ulcer dataset for oral ulcer segmentation</h1>
   <p align="center">
     Chenghao Jiang, Renkai Wu, Yinghao Liu, Yue Wang, Qing Chang, Pengchen Liang*, and Yuan Fan*
   </p>
