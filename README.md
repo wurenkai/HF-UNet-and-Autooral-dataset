@@ -26,13 +26,10 @@ https://github.com/wurenkai/HF-UNet-and-Autooral-dataset/assets/124028634/94c56a
 - pytorch 1.12.0
 
 **1. The proposed datasets (Autooral dataset).** </br>
-(1) To obtain the Autooral dataset, you need to provide **your name, affiliation, reason for applying (one sentence description of your work), and an assurance that you will not share the dataset privately. Specifically, complete the information in the following format** and send it to 'wurk@shu.edu.cn' with the subject name '**Autooral dataset request**'. We will usually review your request and provide you with a link within 3 days. If you do not register your information as required, your application may fail. Please understand! </br>
-```
-Name:
-Affiliation:
-Reason for applying (one sentence description of your work):
-I (the applicant) guarantee that the data will be used only for academic communication and not for any commercial purposes. I (the applicant) guarantee that I will not privately disseminate the data to any public place without the consent of the author.
-```
+(1) The Autooral dataset is available [here](https://drive.google.com/file/d/1n29L25N4H0XFfyWxle95PqS6lyQwNv64/view?usp=sharing). It should be noted:
+1. If you use the dataset, please cite the paper: https://www.nature.com/articles/s41598-024-69125-9 
+2. The Autooral dataset may only be used for academic research, not for commercial purposes.
+3. If you can, please give us a like (Starred) for our GitHub project: https://github.com/wurenkai/HF-UNet-and-Autooral-dataset
 
 (2) After getting the Autooral dataset, execute 'Prepare_Autooral.py' for preprocessing to generate the npy file. We also provide annotations for categorization to provide more richness to the study. </br>
 
