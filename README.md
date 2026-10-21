@@ -28,8 +28,7 @@ https://github.com/wurenkai/HF-UNet-and-Autooral-dataset/assets/124028634/94c56a
 **1. The proposed datasets (Autooral dataset).** </br>
 (1) The Autooral dataset is available [here](https://drive.google.com/file/d/1n29L25N4H0XFfyWxle95PqS6lyQwNv64/view?usp=sharing). It should be noted:
 1. If you use the dataset, please cite the paper: https://www.nature.com/articles/s41598-024-69125-9 
-2. The Autooral dataset may only be used for academic research, not for commercial purposes.
-3. If you can, please give us a like (Starred) for our GitHub project: https://github.com/wurenkai/HF-UNet-and-Autooral-dataset
+2. If you can, please give us a like (Starred) for our GitHub project: https://github.com/wurenkai/HF-UNet-and-Autooral-dataset
 
 (2) After getting the Autooral dataset, execute 'Prepare_Autooral.py' for preprocessing to generate the npy file. We also provide annotations for categorization to provide more richness to the study. </br>
 
